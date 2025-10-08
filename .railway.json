@@ -1,0 +1,6 @@
+{
+  "project": "campus-security-ai",
+  "env": {
+    "PORT": "8080"
+  }
+}

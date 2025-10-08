@@ -1,0 +1,6 @@
+student_id,name,email,card_id,device_hash
+S001,Aman Kumar,aman.kumar@example.com,C1001,D-A1
+S002,Anamika Gupta,anamika.gupta@example.com,C1002,D-B2
+S003,Rohit Singh,rohits@example.com,C1003,D-C3
+S004,Rohit S.,rohitsingh_alt@example.com,C1004,D-C4
+S005,Priya Sharma,priya.s@example.com,C1005,D-E5

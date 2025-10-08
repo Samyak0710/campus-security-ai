@@ -1,0 +1,7 @@
+streamlit>=1.18
+pandas
+numpy
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
+plotly
